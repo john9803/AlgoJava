@@ -1,6 +1,0 @@
-# 기본적인 .gitignore 내용
-.idea/
-*.iml
-out/
-target/
-.DS_Store

@@ -21,7 +21,6 @@ public class Q_28702 {
             String input = br.readLine();
 
             if(input.equals("Fizz")||input.equals("Buzz")||input.equals("FizzBuzz")){
-                continue;
             }
             else{
             nextInt = Integer.parseInt(input)+(2 - i);
